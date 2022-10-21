@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "maplebacon",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JanGorman/MapleBacon",
+      "state" : {
+        "branch" : "master",
+        "revision" : "52ce1315f68cc66152e0853e2db2f9820a7e95ac"
+      }
+    }
+  ],
+  "version" : 2
+}
